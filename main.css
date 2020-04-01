@@ -19,9 +19,13 @@ li a {
   text-decoration: none;
 }
 
-a {
-  display: block;
-  padding: 8px;
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: red;
+  color: white;
 }
 
 
