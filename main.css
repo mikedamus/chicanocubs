@@ -39,7 +39,7 @@
 }
 
 #containerSchedule {
-  overflow: scroll;
+  overflow: hidden;
 }
 
 #containerSchedule iframe {
