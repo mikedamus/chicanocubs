@@ -1,3 +1,26 @@
+#containerLineup {
+  width: 400px;
+  height: 590px;
+  border: 5px solid #000;
+  overflow: hidden;
+  margin-left: 8px;
+  margin-top: 20px;
+}
+
+#containerLineup iframe {
+  width: 181px;
+  height: 555px;
+  margin-left: 8px;
+  margin-top: -42px;
+  -ms-zoom: 1.4;
+  -moz-transform: scale(1.4);
+  -moz-transform-origin: 0 0;
+  -o-transform: scale(1.4);
+  -o-transform-origin: 0 0;
+  -webkit-transform: scale(1.4);
+  -webkit-transform-origin: 0 0;
+}
+
 #containerInfo {
   width: 420px;
   height: 1043px;
