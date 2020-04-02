@@ -1,18 +1,18 @@
 #containerInfo {
-    width: 420px;
-    height: 1040px;
-    border: 5px solid #000; 
-    overflow:hidden;
-    margin-left: 8px;
-    margin-top: 45px;
+  width: 420px;
+  height: 1043px;
+  border: 5px solid #000;
+  overflow: hidden;
+  margin-left: 8px;
+  margin-top: 45px;
 }
 
 #containerInfo iframe {
-    width: 500px;
-    height: 1125px;
-    margin-left: -2px;
-    margin-top: -32px;
-    margin-bottom: 0px;
+  width: 500px;
+  height: 1125px;
+  margin-left: -2px;
+  margin-top: -32px;
+  margin-bottom: 0px;
 }
 
 ul {
