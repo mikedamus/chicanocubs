@@ -39,7 +39,7 @@
 }
 
 #containerSchedule {
-  overflow: hidden;
+  overflow: scroll;
 }
 
 #containerSchedule iframe {
@@ -47,7 +47,7 @@
   top: 100;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 4000px;
 }
 
 ul {
