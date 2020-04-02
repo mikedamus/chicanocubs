@@ -38,6 +38,18 @@
   -webkit-transform-origin: 0 0;
 }
 
+#containerSchedule {
+    overflow: hidden;
+}
+
+#containerSchedule iframe {
+    position: absolute;
+    top:100;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 ul {
   position: fixed;
   top: 0;
