@@ -1,26 +1,3 @@
-#containerLineup {
-  width: 400px;
-  height: 590px;
-  border: 5px solid #000;
-  overflow: hidden;
-  margin-left: 8px;
-  margin-top: 30px;
-}
-
-#containerLineup iframe {
-  width: 179px;
-  height: 555px;
-  margin-left: 8px;
-  margin-top: -42px;
-  -ms-zoom: 1.4;
-  -moz-transform: scale(1.4);
-  -moz-transform-origin: 0 0;
-  -o-transform: scale(1.4);
-  -o-transform-origin: 0 0;
-  -webkit-transform: scale(1.4);
-  -webkit-transform-origin: 0 0;
-}
-
 #containerInfo {
   width: 420px;
   height: 1043px;
@@ -38,16 +15,27 @@
   margin-bottom: 0px;
 }
 
-#containerSchedule {
+#containerLineup {
+  width: 400px;
+  height: 590px;
+  border: 5px solid #000;
   overflow: hidden;
+  margin-left: 8px;
+  margin-top: 20px;
 }
 
-#containerSchedule iframe {
-    position: absolute;
-    top:100;
-    left: 0;
-    width: 100%;
-    height: 100%;  
+#containerLineup iframe {
+  width: 179px;
+  height: 555px;
+  margin-left: 8px;
+  margin-top: -42px;
+  -ms-zoom: 1.4;
+  -moz-transform: scale(1.4);
+  -moz-transform-origin: 0 0;
+  -o-transform: scale(1.4);
+  -o-transform-origin: 0 0;
+  -webkit-transform: scale(1.4);
+  -webkit-transform-origin: 0 0;
 }
 
 ul {
@@ -63,13 +51,15 @@ ul {
 
 li {
   float: left;
+  margin-left: 20px;
+
 }
 
 li a {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 12px 12px;
   text-decoration: none;
 }
 
@@ -88,29 +78,29 @@ li a.active {
 title {
   color: red;
   font-weight: bold;
-  font-size:20px;
+  font-size: 20px;
 }
-  
+
 body {
   background-color: black;
   font-family: sans-serif;
 }
 
-h1 {  
+h1 {
   color: red;
   font-weight: bold;
-   font-size:20px;
+  font-size: 20px;
 }
 
 h2 {
   color: black;
-  font-size:18px;
+  font-size: 18px;
   font-weight: bold;
 
 }
 
 ul {
-  font-size:16px;
+  font-size: 16px;
 }
 
 button {
