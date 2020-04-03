@@ -110,13 +110,16 @@ ul {
   font-size: 16px;
 }
 
-button {
-  width: 60px;
-  height: 30px;
+.button {
+  margin-left: 30px;
   border-radius: 4px;
-  border: 3px solid grey;
   background-color: white;
-  font-size: 16px;
+  background-color: #cc3433;
+  color: white;
+  font-weight: thin;
+  font-size: 14px;
+  padding: 5px 5px;
+  text-decoration: none;
 }
 
 p {
