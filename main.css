@@ -17,7 +17,7 @@
 
 #containerLineup {
   width: 300px;
-  height: 600px;
+  height: 520px;
   border: 6px solid #000;
   overflow: hidden;
   margin-left: 8px;
@@ -28,13 +28,13 @@
   width: 179px;
   height: 600px;
   margin-left: 8px;
-  margin-top: -44px;
-  -ms-zoom: 1.25;
-  -moz-transform: scale(1.25);
+  margin-top: -36px;
+  -ms-zoom: 1.2;
+  -moz-transform: scale(1.2);
   -moz-transform-origin: 0 0;
-  -o-transform: scale(1.25);
+  -o-transform: scale(1.2);
   -o-transform-origin: 0 0;
-  -webkit-transform: scale(1.25);
+  -webkit-transform: scale(1.2);
   -webkit-transform-origin: 0 0;
 }
 
