@@ -112,13 +112,11 @@ ul {
 
 .button {
   margin-left: 30px;
-  margin-top: 5px;
   border-radius: 4px;
-  background-color: white;
   background-color: #cc3433;
   color: white;
   font-weight: thin;
-  font-size: 14px;
+  font-size: 16px;
   padding: 5px 5px;
   text-decoration: none;
 }
